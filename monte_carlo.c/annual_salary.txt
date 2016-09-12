@@ -1,0 +1,17 @@
+MonteCarlo itr = 1, Income = 14.074929
+MonteCarlo itr = 2, Income = 15.247147
+MonteCarlo itr = 4, Income = 14.153707
+MonteCarlo itr = 8, Income = 14.252694
+MonteCarlo itr = 16, Income = 14.468782
+MonteCarlo itr = 32, Income = 14.291429
+MonteCarlo itr = 64, Income = 14.335184
+MonteCarlo itr = 128, Income = 14.293826
+MonteCarlo itr = 256, Income = 14.299174
+MonteCarlo itr = 512, Income = 14.288864
+MonteCarlo itr = 1024, Income = 14.232333
+MonteCarlo itr = 2048, Income = 14.303580
+MonteCarlo itr = 4096, Income = 14.261600
+MonteCarlo itr = 8192, Income = 14.290321
+MonteCarlo itr = 16384, Income = 14.272594
+MonteCarlo itr = 32768, Income = 14.270818
+MonteCarlo itr = 65536, Income = 14.274668

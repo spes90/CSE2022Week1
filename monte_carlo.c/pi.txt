@@ -1,0 +1,16 @@
+Estimate Pi in 10 times is 4.000000
+Estimate Pi in 20 times is 3.400000
+Estimate Pi in 40 times is 3.000000
+Estimate Pi in 80 times is 3.300000
+Estimate Pi in 160 times is 3.350000
+Estimate Pi in 320 times is 3.262500
+Estimate Pi in 640 times is 3.056250
+Estimate Pi in 1280 times is 3.178125
+Estimate Pi in 2560 times is 3.114063
+Estimate Pi in 5120 times is 3.157031
+Estimate Pi in 10240 times is 3.165234
+Estimate Pi in 20480 times is 3.152539
+Estimate Pi in 40960 times is 3.143262
+Estimate Pi in 81920 times is 3.145215
+Estimate Pi in 163840 times is 3.140430
+Estimate Pi in 327680 times is 3.140820

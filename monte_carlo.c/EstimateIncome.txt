@@ -1,0 +1,14 @@
+MonteCarlo itr = 10, Sum = 12.916759
+MonteCarlo itr = 20, Sum = 13.502232
+MonteCarlo itr = 40, Sum = 13.772445
+MonteCarlo itr = 80, Sum = 14.233271
+MonteCarlo itr = 160, Sum = 14.190842
+MonteCarlo itr = 320, Sum = 14.240231
+MonteCarlo itr = 640, Sum = 14.318479
+MonteCarlo itr = 1280, Sum = 14.242238
+MonteCarlo itr = 2560, Sum = 14.271803
+MonteCarlo itr = 5120, Sum = 14.258599
+MonteCarlo itr = 10240, Sum = 14.268932
+MonteCarlo itr = 20480, Sum = 14.272511
+MonteCarlo itr = 40960, Sum = 14.277709
+MonteCarlo itr = 81920, Sum = 14.275735
